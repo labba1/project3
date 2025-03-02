@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Balanced Diet</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+         
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        .container {
+            width: 90%;
+            margin: 20px auto;
+            overflow: hidden;
+        }
+        .content {
+            float: left;
+            width: 70%;
+            margin-right: 5%;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            padding: 15px;
+        }
+        aside {
+            float: right;
+            width: 25%;
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            padding: 15px;
+        }
+        footer {
+            clear: both;
+            text-align: center;
+            padding: 10px;
+            background: #4CAF50;
+            color: rgb(108, 103, 55);
+            position: relative;
+        }
+        .pagination {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .pagination a {
+            margin: 0 5px;
+            padding: 10px 15px;
+            background: #4CAF50;
+            color: rgb(125, 125, 62);
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .pagination a:hover {
+            background: #45a049;
+        }
+    </style>
+</head>
+<body>
+   
+<header>
+    <h1>What is a Balanced Diet?</h1>
+</header>
+
+<div class="container">
+    <div class="content">
+        <p>A balanced diet fulfills all of a person’s nutritional needs. It comprises foods from five groups — fruits, vegetables, protein, grains, and dairy — and can help manage weight and reduce the risk of disease.A balanced diet is one that fulfills all of a person’s nutritional needs. Humans need a certain amount of calories and nutrients to stay healthy.
+
+            <p>A balanced diet should provide all the nutrients a person requires without going over the recommended daily calorie intake. Adults typically require between 1,600 to 3,000 calories per dayTrusted Source, but this can vary according to a person’s sex, age, and lifestyle</p>
+       <br>
+        <p>A balanced diet gives your body the nutrients it needs to function correctly. To get the nutrition you need, most of your daily calories should come from:</p>
+        <ul>
+            <li>Fresh fruits</li>
+            <li>Fresh vegetables</li>
+            <li>Whole grains</li>
+            <li>Legumes</li>
+            <li>Nuts</li>
+            <li>Lean proteins</li>
+        </ul>
+        <h2>About Calories</h2>
+        <p>The number of calories in a food refers to the amount of energy stored in that food. Your body uses calories from food for walking, thinking, breathing, and other important functions.</p>
+        <p>The average person needs about 2,000 calories every day to maintain their weight, but the amount will depend on their age, sex, and physical activity level..</p>
+        
+        <link rel="icon" href="" type="image/jpg" >
+        <img src="diet.jpg" height="250" width="200">   
+        <p>.........</p>
+        <img src="rice.jpg" height="250" width="200"  >
+        <h2>Why a Balanced Diet is Important?</h2>
+        <p>A balanced diet supplies the nutrients your body needs to work effectively. Without balanced nutrition, your body is more prone to disease, infection, fatigue, and low performance.
+            Children who don’t get enough healthy foods may face growth and developmental problems, poor academic performance, and frequent infections.
+            They can also develop unhealthy eating habits that may persist into adulthood.</p>
+        <p>A balanced diet supplies the nutrients your body needs to work effectively...</p>
+        <h2>What to Eat for a Balanced Diet?</h2>
+        <p></p>
+        <p>A healthy, balanced diet will usually include the following nutrients:</p>
+       <ul>
+        <li>vitamins, minerals, and antioxidants</li>
+        <li>carbohydrates, including starches and fiber</li>
+        <li>protein</li>
+        <li>healthy fats</li>
+    </ul>
+        <h2>Foods to Avoid</h2>
+       <p>Foods to avoid or limit on a healthy diet include:</p>
+       <ul>
+             <li>highly processed foods</li>
+             <li>refined grains</li>
+             <li>added sugar and salt</li>
+             <li>red and processed meat</li>
+             <li> alcohol</li>
+             <li>trans fats</li>
+        </ul>
+    </div>
+
+    <aside>
+        <h3>Quick Tips</h3>
+        <p>1. Include a variety of foods in your diet.</p>
+        <p>2. Limit processed foods and sugars.</p>
+        <p>3. Stay hydrated andr drink plenty of water.</p>
+    </aside>
+</div>
+
+
+<footer>
+    <a href=" https://www.healthline.com/health/balanced-diet#calories" >< More About!! > </h4></a>
+    <p>&copy; 2025 Healthy Diet</p>
+</footer>
+
+</body>
+</html>
